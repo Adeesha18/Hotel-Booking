@@ -1,1 +1,23 @@
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Ignore build outputs
+bin/
+out/
+target/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled Java classes
+*.class
 /bin/
